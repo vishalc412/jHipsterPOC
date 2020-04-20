@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.org.jhipsterpoc"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "jHipsterMSPOC",
+    "packageName": "com.org.jhipsterpoc",
+    "packageFolder": "com/org/jhipsterpoc",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGU3MzljOWJmMmFjMGZkZGQ1NDM1Y2U3OTc1Y2IzMWIxZmJiYzgxZDdjY2E1ZGVkOTllYzMzODAwYzIwMWM1NDNhYWY1ZmI5YzkyYzk1MDczYTI5NTE5OWQ0ODZlMDI0MzI5MTgzNDIyYTdiZDIyY2VlMGFhYmM5NTViODQwNGQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1586977711481,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
